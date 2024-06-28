@@ -1,0 +1,18 @@
+h1 {
+  color: brown;
+}
+body {
+  background-color: black;
+}
+#shwarma {
+  background-color: rgb(244, 7, 7);
+}
+
+#I15 {
+  text-align: center;
+  padding: 20px 50px 20px 50px;
+  background-image: url();
+}https://media.cnn.com/api/v1/images/stellar/prod/i-phone-15-pro-phone-in-hand-at-apple-event.jpg?c=16x9
+#I15 img {
+  width: 100%;
+}
